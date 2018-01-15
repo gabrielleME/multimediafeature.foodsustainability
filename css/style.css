@@ -112,13 +112,13 @@ header a {
 }
 
 .shot {
-  background: url(../images/Slider/ingredients.jpg);
+  background: url(../images/Slider/ingredients.JPG);
   background-size: cover;
   background attachment: fixed;
 }
 
 .smooth {
-  background: url(../images/smoothie1.jpg);
+  background: url(../images/smoothie1.JPG);
   background-size: cover;
   background attachment: fixed;
 }
